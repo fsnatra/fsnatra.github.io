@@ -11,14 +11,13 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 ## Headers
-```markdown <!-- Used code block to make it look cleaner -->
-# Header one
-## Header two
-### Header three
-#### Header four
-##### Header five
-###### Header six 
-```
+<!-- Used code blocks to make it look cleaner -->
+` # Header one `  
+` ## Header two `  
+` ### Header three `  
+` #### Header four `  
+` ##### Header five `  
+` ###### Header six `  
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
