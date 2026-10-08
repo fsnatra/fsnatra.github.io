@@ -12,12 +12,14 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ## Headers
 <!-- Used code blocks to make it look cleaner -->
-` # Header one `  
-` ## Header two `  
-` ### Header three `  
-` #### Header four `  
-` ##### Header five `  
-` ###### Header six `  
+<p>
+# Header one</br>
+## Header two</br>
+### Header three</br>
+#### Header four</br>
+##### Header five</br>
+###### Header six </br>
+</p>  
 
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
